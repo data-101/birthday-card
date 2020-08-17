@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/birthday-card/static/css/main.5f361e03.chunk.css",
+    "main.js": "/birthday-card/static/js/main.cda53103.chunk.js",
+    "main.js.map": "/birthday-card/static/js/main.cda53103.chunk.js.map",
+    "runtime-main.js": "/birthday-card/static/js/runtime-main.8ce2e272.js",
+    "runtime-main.js.map": "/birthday-card/static/js/runtime-main.8ce2e272.js.map",
+    "static/js/2.6251dc9b.chunk.js": "/birthday-card/static/js/2.6251dc9b.chunk.js",
+    "static/js/2.6251dc9b.chunk.js.map": "/birthday-card/static/js/2.6251dc9b.chunk.js.map",
+    "index.html": "/birthday-card/index.html",
+    "precache-manifest.e6e74dd0af6ff8cb95ac4c40414b9c7f.js": "/birthday-card/precache-manifest.e6e74dd0af6ff8cb95ac4c40414b9c7f.js",
+    "service-worker.js": "/birthday-card/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/birthday-card/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6251dc9b.chunk.js.LICENSE.txt": "/birthday-card/static/js/2.6251dc9b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/birthday-card/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ce2e272.js",
+    "static/js/2.6251dc9b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.cda53103.chunk.js"
+  ]
+}
