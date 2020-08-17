@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc88a91ebd3f043562beacb97b0ba48a",
+    "revision": "c8515c742fa030a756a2490ef194f6a2",
     "url": "/birthday-card/index.html"
   },
   {
-    "revision": "a3342010691363e23bf5",
+    "revision": "389eb0140cab53c2b93c",
     "url": "/birthday-card/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "59f13e921e3750055133",
-    "url": "/birthday-card/static/js/2.6251dc9b.chunk.js"
+    "revision": "2bd018bdaf5954e9008c",
+    "url": "/birthday-card/static/js/2.25ac3357.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/birthday-card/static/js/2.6251dc9b.chunk.js.LICENSE.txt"
+    "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
+    "url": "/birthday-card/static/js/2.25ac3357.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a3342010691363e23bf5",
-    "url": "/birthday-card/static/js/main.cda53103.chunk.js"
+    "revision": "389eb0140cab53c2b93c",
+    "url": "/birthday-card/static/js/main.053e3af9.chunk.js"
   },
   {
     "revision": "755f7f94f2545570cb1a",
